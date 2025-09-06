@@ -1,12 +1,12 @@
-name: rg0x
+name: crystalmatrix
 version: 0.1.0
 
 authors:
   - evilenx <evilenx@proton.me>
 
 targets:
-  rg0x:
-    main: src/rg0x.cr
+  crystalmatrix:
+    main: src/crystalmatrix.cr
 
 crystal: '>= 1.17.1'
 

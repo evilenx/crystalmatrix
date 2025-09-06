@@ -4,7 +4,8 @@ GRAY_SCALE = [232, 235, 237, 240, 245, 250, 254, 255]
 CHARS = ('0'..'1').to_a
 
 # Cambia aquí los FPS que desees (ej: 144 para muy fluido, 30 para efecto lento)
-FPS = 144
+#FPS = 144
+FPS = 30
 FRAME_TIME = 1.0 / FPS.to_f
 
 def term_size
