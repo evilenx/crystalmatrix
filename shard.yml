@@ -1,0 +1,13 @@
+name: rg0x
+version: 0.1.0
+
+authors:
+  - evilenx <evilenx@proton.me>
+
+targets:
+  rg0x:
+    main: src/rg0x.cr
+
+crystal: '>= 1.17.1'
+
+license: MIT
