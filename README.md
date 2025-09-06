@@ -24,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [evilenx](https://github.com/your-github-user) - creator and maintainer
+- [evilenx](https://github.com/evilenx) - creator and maintainer
